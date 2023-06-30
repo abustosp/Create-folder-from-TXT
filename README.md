@@ -6,21 +6,27 @@ Batch folder creation based on a TXT file
 
 1. Download Python
 
-2. Ir a la carpeta contenedora del Proyecto con:
+2. Clone repository
+
+	```Console
+	git clone https://github.com/abustosp/Create-folder-from-TXT.git
+	```
+
+3. Go to the proyect Folder:
    
    ```Python
    cd "Directorio Objetivo"
    ```
 
-3. Execute script 
+4. Execute script 
    
-   1. Windows:
+  1. Windows:
       
       ```Python
       python "Creador de carpetas.py"
       ```
    
-   2. Linux/Mac
+  2. Linux/Mac
       
       ```Python
       python3 "Creador de carpetas.py"
