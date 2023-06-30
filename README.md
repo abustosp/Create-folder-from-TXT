@@ -20,13 +20,13 @@ Batch folder creation based on a TXT file
 
 4. Execute script 
    
-  1. Windows:
+    1. Windows:
       
       ```Python
       python "Creador de carpetas.py"
       ```
    
-  2. Linux/Mac
+    2. Linux/Mac
       
       ```Python
       python3 "Creador de carpetas.py"
